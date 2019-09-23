@@ -12,6 +12,5 @@ int main()
 	teacher.Add(&girl);
 	School school(&teacher);
 	school.Decision();
-	system("pause");
 	return 0;
 }
