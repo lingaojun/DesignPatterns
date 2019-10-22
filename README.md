@@ -3,6 +3,7 @@
 
 # 9.20  
 增加工厂模式 定义一个创建对象的接口，让其子类自己决定实例化哪一个工厂类，工厂模式使其创建过程延迟到子类进行。  
+![Image text](https://github.com/lingaojun/DesignPatterns/blob/master/FactoryMode/FactoryPattermUML.png)
 增加策略模式 定义一系列的算法,把它们一个个封装起来, 并且使它们可相互替换。  
 # 9.22  
 增加观察者模式 用于一对多进行通知  
