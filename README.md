@@ -24,5 +24,6 @@
 # ./allmake.sh 即可编译所有源码。  
 # ./allmake.sh clean 清除所有编译生成的二进制文件。  
 # 10.10  
-增加适配者模式：通过适配的类进行被适配接口的二次封装，达到通过调用适配器类的接口进而调用被适配器的接口。从而使两个不匹配的接口进行一起工作。  
+增加适配者模式：通过适配的类进行被适配接口的二次封装，达到通过调用适配器类的接口进而调用被适配器的接口。从而使两个不匹配的接口进行一起工作。   
+![Image text](https://github.com/lingaojun/DesignPatterns/blob/master/AdapterPattern/AdapterPattern.png)
 
